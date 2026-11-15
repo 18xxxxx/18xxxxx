@@ -6,7 +6,8 @@
   <br><br>
   
   <!-- Bộ đếm lượt xem tự động cho tài khoản 18xxxxx -->
-  <img src="https://laobi.icu" />
+  <img src="https://hits.sh" />
+  
   
   
   <br><br>
