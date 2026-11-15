@@ -1,4 +1,13 @@
-## Hi there 👋
+<div align="center">
+
+<img src="https://komarev.com" />
+
+<br><br>
+
+‧ ‧ ─────── ꒰ა • ✦ • ໒꒱ ─────── ‧ ‧
+
+</div>
+
 
 <!--
 **18xxxxx/18xxxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
