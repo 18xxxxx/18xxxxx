@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Thay LINK_ANH_CUA_BAN bằng đường dẫn ảnh trực tiếp -->
-  <img src="LINK_ANH_CUA_BAN" width="350" />
+  <img src="<img width="736" height="1307" alt="c6e50505703caa3a5b9bd892775d67a2" src="https://github.com/user-attachments/assets/3ec3ddeb-90c0-41ff-8c31-de0e64e81762" />" width="350" />
   
   <br><br>
   
